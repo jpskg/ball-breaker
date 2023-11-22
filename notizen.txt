@@ -1,0 +1,6 @@
+1.  nächster schritt ball löschen wenn er den boden berührt und dann bei 
+    startposition wieder ausgeben 
+
+2.  ball vom pad abprallen lassen
+3.  ball eine x geschindigkeit geben
+4.  ziele erstellen
